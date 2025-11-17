@@ -4,4 +4,4 @@ This repository tests the vuforia augmented reality SDK with Unity. I configured
 
 See the link to youtube below for a demo of the project in action:
 
-![AR Demo]([https://drive.google.com/file/d/1bFCMciWj7rkbOVg7wH_hF53uAUAYwRBt/view?usp=sharing](https://youtu.be/DIVQYJ7GSKA))
+[AR Demo]([https://drive.google.com/file/d/1bFCMciWj7rkbOVg7wH_hF53uAUAYwRBt/view?usp=sharing](https://youtu.be/DIVQYJ7GSKA))
